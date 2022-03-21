@@ -18,5 +18,6 @@ def png():
         prime_number += 1
 
 
-for n in islice(png(), 10):
-    print(n)
+if __name__ == "__main__":
+    for n in islice(png(), 10):
+        print(n)
