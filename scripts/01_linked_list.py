@@ -1,6 +1,4 @@
 """ Implementation of a linked list in python """
-
-
 from random import randint
 
 
